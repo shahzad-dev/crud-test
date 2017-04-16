@@ -1,9 +1,9 @@
 {
-  "name": "rrg-test-project",
+  "name": "crud-test",
   "private": true,
   "description": "A quick way to test GraphQl & Relay",
-  "repository": "shahzad-dev/react-graphql-relay-playground",
-  "version": "0.1.0",
+  "repository": "shahzad-dev/crud-test",
+  "version": "0.0.1",
   "scripts": {
     "start": "babel-node ./server.js",
     "update-schema": "babel-node ./scripts/updateSchema.js"
